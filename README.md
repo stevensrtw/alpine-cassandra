@@ -25,7 +25,7 @@ $ ./bin/build.sh 4.1.4
 To run the image:
 
 ```
-$ docker run -d -p 9042:9042 albertc/alpine-cassandra-<cassandra_version>:latest
+$ docker run -d -p 9042:9042 rstevens198238/alpine-cassandra-<cassandra_version>:latest
 ```
 
 ## References
